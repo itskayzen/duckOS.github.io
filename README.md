@@ -51,6 +51,10 @@ To install DuckOS, you need to install the ISO file placed in the release sectio
 ## Credits
 - [itskayzen_yt](https://github.com/itskayzen), Founder, main dev, graphic and UI.
 
+## Wallpapers
+
+The Wallpapers are still in developpement, come back in a day!
+
 ### Software credits
 DuckOS would not be possible without the following open source software:
 
